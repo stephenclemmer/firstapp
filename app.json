@@ -4,6 +4,7 @@
     "slug": "firstapp",
     "version": "1.0.0",
     "orientation": "portrait",
+    "owner": "stephenjclemmer",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
